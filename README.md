@@ -1,4 +1,10 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/NC086/NC086/readme_header.png "Header")](https://some-url.dev/)
+<!-- ⌨️ Readme Typing SVG -->
+<div>
+    <a href="https://www.cnblogs.com/nc086">
+        [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=&random=%E5%81%87&width=555&height=40&lines=Record+and+become+a+better+version+of+yourself;%E8%AE%B0%E5%BD%95%E5%B9%B6%E6%88%90%E4%B8%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%87%AA%E5%B7%B1)](https://git.io/typing-svg)
+    </a>
+</div>
+
 ### Hi there 👋
 
 <!--
