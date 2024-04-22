@@ -9,8 +9,11 @@
 <p>✍️ Hello everyone, I'm Xiao Hua 🧑‍💻, I love computer network technology and the internet, and I want to be a network engineer! My personal website is <a href="https://www.cnblogs.com/nc086">www.cnblogs.com</a> , welcome to discuss and learn. </p>
 
 💪 正在学习：
+
 🧠 计划学习：
+
 🧰 常用工具：
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!--
 **NC086/NC086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
