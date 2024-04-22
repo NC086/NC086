@@ -8,9 +8,8 @@
 ### Hello 👋
 <p>✍️ Hello everyone, I'm Xiao Hua 🧑‍💻, I love computer network technology and the internet, and I want to be a network engineer! My personal website is <a href="https://www.cnblogs.com/nc086">www.cnblogs.com</a> , welcome to discuss and learn. </p>
 
-<!-- 📟 GitHub Stats 🔝 --><!-- ⏱ Streak Stats 🔝 -->
+<!-- 📟 GitHub Stats 🔝 -->
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nc086&theme=tokyo-night" alt="筱崋's Contribution Graph">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nc086&theme=tokyo-night" alt="筱崋's Contribution Graph">
 
 💪 正在学习：
 
