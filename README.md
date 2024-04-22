@@ -2,7 +2,7 @@
 <div>
     <a href="https://www.cnblogs.com/nc086">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=555&lines=Record and become a better version of yourself; 记录并成为更好的自己&center=true&size=20" alt="Typing SVG" />
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=555&pause=1000&lines=Record and become a better version of yourself; 记录并成为更好的自己&center=true&size=20" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weidht=555&pause=1000&lines=Record and become a better version of yourself; 记录并成为更好的自己&center=true&size=20" alt="Typing SVG" />
     </a>
 </div>
 
