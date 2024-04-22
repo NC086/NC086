@@ -29,6 +29,7 @@
 ![VMWARE](https://img.shields.io/badge/VMware-231f20?style=flat-square&logo=VMware&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Google chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white)
 
 <!--
