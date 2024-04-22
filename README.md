@@ -6,7 +6,7 @@
 </div>
 
 ### Hi there 👋
-<p>✍️ Hello everyone, I'm Xiao Hua 🧑‍💻</p>
+<p>✍️ Hello everyone, I'm Xiao Hua 🧑‍💻, I love computer network technology and the internet, and I want to be a network engineer!</p>
 
 <!--
 **NC086/NC086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
