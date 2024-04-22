@@ -23,6 +23,8 @@
 🧠 计划学习：
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 🧰 常用工具：
 
