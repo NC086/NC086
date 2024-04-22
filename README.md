@@ -12,6 +12,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nc086&theme=tokyo-night" alt="筱崋's Contribution Graph">
 
 💪 正在学习：
+
 ![HUAWEI](https://img.shields.io/badge/Huawei-FF0000?style=flat-square&logo=huawei&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,6 +23,7 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 🧠 计划学习：
+
 ![CISCO](https://img.shields.io/badge/CISCO-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
