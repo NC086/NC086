@@ -1,6 +1,8 @@
 <!-- ⌨️ Readme Typing SVG -->
 <div>
-    <a href="https://www.cnblogs.com/nc086"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=&random=%E5%81%87&width=555&height=40&lines=Record+and+become+a+better+version+of+yourself;%E8%AE%B0%E5%BD%95%E5%B9%B6%E6%88%90%E4%B8%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%87%AA%E5%B7%B1" alt="Typing SVG" /></a>
+    <a href="https://www.cnblogs.com/nc086">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Record and become a better version of yourself; 记录并成为更好的自己&center=true&size=27" alt="Typing SVG" />
+    </a>
 </div>
 
 ### Hi there 👋
