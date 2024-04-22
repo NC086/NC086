@@ -5,7 +5,7 @@
     </a>
 </div>
 
-### Hi there 👋
+### Hello 👋
 <p>✍️ Hello everyone, I'm Xiao Hua 🧑‍💻, I love computer network technology and the internet, and I want to be a network engineer!</p>
 
 <!--
