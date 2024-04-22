@@ -6,6 +6,7 @@
 </div>
 
 ### Hi there 👋
+<p>✍️ Hello everyone, I'm Xiaomao 🧑‍💻</p>
 
 <!--
 **NC086/NC086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
